@@ -15,3 +15,7 @@ mordorarcherhorde.ini // cheaper from 225 to 150
 dwarvenbattlewagon.ini // more health from 3000 to 4000  
 mordorpikemanhorde.ini // reduced cost from 250 to 150  
 greatbeast.ini // more health from 6000 to 8500  
+rohan battletower.ini
+wyrmslayerhorde.ini
+entsinfantry.ini
+drwarvensentrytower.ini
